@@ -11,5 +11,8 @@ _Primer ejercicio relacionado con GIT._
 
 ## Ejercicio USFlights
 
+_ENTREGADO: https://github.com/asantamar87/git_test/blob/master/Aldo_SantaMaria_USFLIGHTS.sql
 
+## Exercici diagrames de classe 1
+_
 
