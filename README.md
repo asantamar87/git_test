@@ -15,5 +15,6 @@ _ENTREGADO: https://github.com/asantamar87/git_test/blob/master/Aldo_SantaMaria_
 _Version modificada por errores: https://github.com/asantamar87/git_test/blob/master/Aldo_SantaMaria_USFLIGHTS_v1.0.sql
 
 ## Exercici diagrames de classe 1
-_
+_ 1. ItAcademy -> https://github.com/asantamar87/git_test/blob/master/1.ItAcademy.png
+_ 2. Shop -> https://github.com/asantamar87/git_test/blob/master/2.%20Shop.png
 
