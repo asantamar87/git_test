@@ -13,6 +13,7 @@ _Primer ejercicio relacionado con GIT._
 
 _ENTREGADO: https://github.com/asantamar87/git_test/blob/master/Aldo_SantaMaria_USFLIGHTS.sql
 _Version modificada por errores: https://github.com/asantamar87/git_test/blob/master/Aldo_SantaMaria_USFLIGHTS_v1.0.sql
+_Version final -> https://github.com/asantamar87/git_test/blob/master/Aldo_SantaMaria_USFLIGHTS_vFinal.sql
 
 ## Exercici diagrames de classe 1
 _ 1. ItAcademy -> https://github.com/asantamar87/git_test/blob/master/1.ItAcademy.png
